@@ -32,5 +32,8 @@
     "prettier": "^1.15.3",
     "react": "^16.7.0",
     "react-native": "^0.57.8"
+  },
+  "dependencies": {
+    "prop-types": "^15.7.2"
   }
 }
